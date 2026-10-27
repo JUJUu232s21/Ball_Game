@@ -1,4 +1,3 @@
-package semyon.android_studio.ball_game;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.SharedPreferences;
